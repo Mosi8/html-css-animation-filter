@@ -19,7 +19,7 @@
 }
 
 .ex-3-square:hover{
-    border-radius: 50%;
+    border-radius: 100%;
 }
 
 .ex-4-square{
@@ -27,7 +27,7 @@
 }
 
 .ex-4-square:hover{
-    background-color: transparent;
+    opacity: 0;
 }
 
 .ex-5-square{
