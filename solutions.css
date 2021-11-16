@@ -51,7 +51,6 @@
 }
 
 .ex-7-img:hover{
-    filter: grayscale(1);
     filter: grayscale(.3) sepia(.8);
 }
 
